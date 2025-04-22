@@ -1,5 +1,37 @@
-[
-    { "id": "000001", "name": "TechGuy123", "amazon": "techguy123-20", "ebay": "techguy123-20" , "netflix": "techguy123-20" , "espn": "techguy123-20"},
-    { "id": "000002", "name": "BookGirl", "youtube": "bookgirl-20" }
-]
-  
+{
+  "creators": {
+    "000001": {
+      "id": "000001",
+      "name": "TechGuy123",
+      "amazon": "techguy123-20",
+      "ebay": "techguy123-ebay",
+      "netflix": "techguy123-net",
+      "youtube": "techguy123-yt",
+      "bestbuy": "techguy123-bb",
+      "grailed": "techguy123-gr",
+      "nike": "techguy123-nk"
+    },
+    "000002": {
+      "id": "000002",
+      "name": "BookGirl",
+      "amazon": "bookgirl-amz",
+      "ebay": "bookgirl-ebay",
+      "netflix": "",
+      "youtube": "bookgirl-yt",
+      "bestbuy": "",
+      "grailed": "",
+      "nike": "bookgirl-nk"
+    },
+    "000003": {
+      "id": "000003",
+      "name": "MrStreamer",
+      "amazon": "",
+      "ebay": "mrstreamer-ebay",
+      "netflix": "",
+      "youtube": "mrstreamer-yt",
+      "bestbuy": "mrstreamer-bb",
+      "grailed": "mrstreamer-gr",
+      "nike": ""
+    }
+  }
+}
