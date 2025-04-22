@@ -1,5 +1,5 @@
 [
-    { "id": "techguy123", "name": "TechGuy123", "tag": "techguy123-20" },
-    { "id": "bookgirl", "name": "BookGirl", "tag": "bookgirl-20" }
-  ]
+    { "id": "000001", "name": "TechGuy123", "amazon": "techguy123-20", "ebay": "techguy123-20" , "netflix": "techguy123-20" , "espn": "techguy123-20"},
+    { "id": "000002", "name": "BookGirl", "youtube": "bookgirl-20" }
+]
   
