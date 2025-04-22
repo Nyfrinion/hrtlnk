@@ -1,35 +1,29 @@
 {
+  "creators": {
     "000001": {
       "id": "000001",
       "name": "TechGuy123",
       "amazon": "techguy123-20",
-      "ebay": "techguy123-ebay",
-      "netflix": "techguy123-net",
-      "youtube": "techguy123-yt",
-      "bestbuy": "techguy123-bb",
-      "grailed": "techguy123-gr",
-      "nike": "techguy123-nk"
+      "ebay": "techguy123-20",
+      "netflix": "techguy123-20",
+      "youtube": "techguy123-20",
+      "bestbuy": "techguy123-20",
+      "grailed": "techguy123-20",
+      "nike": "techguy123-20"
     },
     "000002": {
       "id": "000002",
       "name": "BookGirl",
-      "amazon": "bookgirl-amz",
-      "ebay": "bookgirl-ebay",
-      "netflix": "",
-      "youtube": "bookgirl-yt",
-      "bestbuy": "",
-      "grailed": "",
-      "nike": "bookgirl-nk"
+      "youtube": "bookgirl-20"
     },
     "000003": {
       "id": "000003",
-      "name": "MrStreamer",
-      "amazon": "",
-      "ebay": "mrstreamer-ebay",
-      "netflix": "",
-      "youtube": "mrstreamer-yt",
-      "bestbuy": "mrstreamer-bb",
-      "grailed": "mrstreamer-gr",
-      "nike": ""
+      "name": "SuperCoder",
+      "amazon": "supercoder-20",
+      "ebay": "supercoder-20",
+      "netflix": "supercoder-20",
+      "youtube": "supercoder-20",
+      "bestbuy": "supercoder-20"
     }
+  }
 }
