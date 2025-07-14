@@ -1,0 +1,14 @@
+
+{
+  "platforms": {
+    "amazon": {
+      "name": "Amazon"
+    },
+    "ebay": {
+      "name": "Ebay"
+    },
+    "netflix": {
+      "name": "Netflix"
+    }
+  }
+}
